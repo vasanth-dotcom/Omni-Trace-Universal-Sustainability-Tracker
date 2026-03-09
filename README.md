@@ -1,7 +1,7 @@
 # Omni-Trace-Universal-Sustainability-Tracker
 🍃 Omni-Trace is a responsive, multi-phase sustainability tracker. It calculates your daily $CO_2e$ emissions and visualizes your environmental impact against national averages using vanilla JavaScript.
 
-🌍 Omni-Trace: Universal Sustainability Tracker
+## 🌍 Omni-Trace: Universal Sustainability Tracker
 
 🔗 **Live Website:**  [Click here to open Omni-Trace](https://vasanthkumar73.neocities.org/Omni-Trace/vasanth-index)
 
@@ -13,20 +13,20 @@ Built with a modern Glassmorphism UI, the application simplifies environmental i
 
 The system provides real-time analytics, historical tracking, and sustainability insights for better environmental awareness.
 
-🚀 Features
+## 🚀 Features
 🌱 Four-Phase Audit
 
 A guided audit system that evaluates lifestyle emissions across:
 
-Transport
+- Transport
 
-Kitchen
+- Kitchen
 
-Energy
+- Energy
 
-Waste
+- Waste
 
-📊 Real-Time Analytics
+## 📊 Real-Time Analytics
 
 Interactive Doughnut and Bar Charts powered by Chart.js for visual footprint analysis.
 
@@ -38,7 +38,7 @@ India Average (2.1 tonnes CO₂/year)
 
 Global Average (4.9 tonnes CO₂/year)
 
-📜 Audit History
+## 📜 Audit History
 
 Uses LocalStorage to track the user’s previous carbon audits.
 
@@ -46,108 +46,108 @@ Uses LocalStorage to track the user’s previous carbon audits.
 
 Optimized for desktop and mobile grid layouts.
 
-💡 Formula Transparency
+## 💡 Formula Transparency
 
 Users can view the exact formula used for each calculation phase.
 
-📊 The Four Phases of Tracking
+## 📊 The Four Phases of Tracking
 
 Omni-Trace calculates environmental impact based on four sustainability categories.
 
-Phase 1: The Commute (Transport)
+### Phase 1: The Commute (Transport)
 
-Tracks the carbon emissions generated from daily travel.
+- Tracks the carbon emissions generated from daily travel.
 
-Variables
+- Variables
 
-Transport mode (Petrol / Diesel / EV / Public Transport)
+- Transport mode (Petrol / Diesel / EV / Public Transport)
 
-Distance traveled
+- Distance traveled
 
-Vehicle occupancy
+- Vehicle occupancy
 
-Logic
+- Logic
 
-Uses fuel efficiency and emission factors to calculate individual travel emissions.
+- Uses fuel efficiency and emission factors to calculate individual travel emissions.
 
-Phase 2: The Kitchen (Food & Diet)
+### Phase 2: The Kitchen (Food & Diet)
 
-Evaluates the environmental footprint of food consumption.
+- Evaluates the environmental footprint of food consumption.
 
-Variables
+- Variables
 
-Protein type (Plant-based → Beef)
+- Protein type (Plant-based → Beef)
 
-Food sourcing (Local vs Imported)
+- Food sourcing (Local vs Imported)
 
-Cooking method (LPG / PNG / Induction)
+- Cooking method (LPG / PNG / Induction)
 
-Online food delivery
+- Online food delivery
 
-Food waste
+- Food waste
 
-Logic
+- Logic
 
-Considers methane emissions from protein sources and cooking energy usage.
+- Considers methane emissions from protein sources and cooking energy usage.
 
-Phase 3: The Plug (Home Energy)
+### Phase 3: The Plug (Home Energy)
 
-Measures household electricity and digital consumption.
+- Measures household electricity and digital consumption.
 
-Variables
+- Variables
 
-AC / Heater usage
+- AC / Heater usage
 
-Electric geyser usage
+- Electric geyser usage
 
-High-load appliances
+- High-load appliances
 
-Digital consumption (gaming / streaming)
+- Digital consumption (gaming / streaming)
 
-Lighting type
+- Lighting type
 
-Logic
+- Logic
 
-Converts appliance runtime into kg CO₂ equivalent emissions.
+- Converts appliance runtime into kg CO₂ equivalent emissions.
 
-Phase 4: The Bin (Waste Management)
+### Phase 4: The Bin (Waste Management)
 
-Evaluates waste generation and disposal impact.
+- Evaluates waste generation and disposal impact.
 
-Variables
+- Variables
 
-Number of trash bags
+- Number of trash bags
 
-Laundry drying method
+- Laundry drying method
 
-Logic
+- Logic
 
-Estimates emissions from landfill waste and electric dryers.
+- Estimates emissions from landfill waste and electric dryers.
 
-🧮 Calculation Logic
+## 🧮 Calculation Logic
 
-Total daily emissions are calculated using:
+- Total daily emissions are calculated using:
 
-Total Impact = Transport + Kitchen + Energy + Waste
+- Total Impact = Transport + Kitchen + Energy + Waste
 
-Example Transport Formula:
+- Example Transport Formula:
 
-Impact = ((Distance / Efficiency) × Fuel Factor) / Occupancy
+- Impact = ((Distance / Efficiency) × Fuel Factor) / Occupancy
 
-This produces a personalized daily carbon footprint estimate.
+- This produces a personalized daily carbon footprint estimate.
 
-🛠️ Tech Stack
-Technology	Purpose
-HTML5	Application structure
-CSS3	Glassmorphism UI styling
-JavaScript (ES6)	Core application logic
-Chart.js	Data visualization
-Google Fonts (Inter)	Typography
-LocalStorage	Audit history storage
+## 🛠️ Tech Stack
+- Technology	Purpose
+- HTML5	Application structure
+- CSS3	Glassmorphism UI styling
+- JavaScript (ES6)	Core application logic
+- Chart.js	Data visualization
+- Google Fonts (Inter)	Typography
+- LocalStorage	Audit history storage
 
-📸 Screenshots
+## 📸 Screenshots
 
-🔐 Login Interface
+### 🔐 Login Interface
 
 The Login Interface serves as the entry point to the Omni-Trace application. It features a clean and modern Glassmorphism-style UI designed for simplicity and ease of access.
 
@@ -155,17 +155,17 @@ Users can log in using their username and password, or quickly access the system
 
 Key Features
 
-Username and password authentication
+- Username and password authentication
 
-Google Sign-In option
+- Google Sign-In option
 
-Clean glassmorphism UI design
+- Clean glassmorphism UI design
 
-Responsive layout for multiple devices
+- Responsive layout for multiple devices
 <img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/80200177-af62-48e7-9090-d711ef00b222" />
 
 
-📊 User Dashboard
+### 📊 User Dashboard
 
 The Dashboard is the central hub of the Omni-Trace platform. After logging in, users are welcomed with an interactive interface that allows them to start their carbon footprint analysis.
 
@@ -173,19 +173,19 @@ The dashboard provides access to audit history, allowing users to view their pre
 
 Key Features
 
-Welcome interface for users
+- Welcome interface for users
 
-Start carbon footprint audit button
+- Start carbon footprint audit button
 
-Audit history tracking system
+- Audit history tracking system
 
-Logout functionality
+- Logout functionality
 
-Modern responsive layout
+- Modern responsive layout
 <img width="1024" height="464" alt="image" src="https://github.com/user-attachments/assets/a4de17b4-8780-41a5-8e10-9063f5d77798" />
 
 
-📈 Results & Analytics
+### 📈 Results & Analytics
 
 The Results Page presents the final carbon footprint analysis after completing all four phases.
 
@@ -195,32 +195,32 @@ The page also compares the user's emissions against national and global averages
 
 Key Features
 
-Daily carbon footprint calculation
+- Daily carbon footprint calculation
 
-Annual carbon emission projection
+- Annual carbon emission projection
 
-Doughnut chart showing emission distribution
+- Doughnut chart showing emission distribution
 
-Bar chart comparing global and national benchmarks
+- Bar chart comparing global and national benchmarks
 
-Sustainability tips for reducing emissions
+- Sustainability tips for reducing emissions
 <img width="1023" height="461" alt="image" src="https://github.com/user-attachments/assets/5ed7c5ec-0f93-4d7a-8517-8f08e716c115" />
 
 
 
-💡 Future Improvements
+## 💡 Future Improvements
 
-User authentication with backend
+- User authentication with backend
 
-Cloud database integration
+- Cloud database integration
 
-AI-based sustainability suggestions
+- AI-based sustainability suggestions
 
-Personalized eco-friendly recommendations
+- Personalized eco-friendly recommendations
 
-Mobile app version
+- Mobile app version
 
-🌎 Final Note
+## 🌎 Final Note
 
 Omni-Trace helps people measure and understand their carbon footprint, encouraging small lifestyle changes that can contribute to a greener and more sustainable planet.
 
