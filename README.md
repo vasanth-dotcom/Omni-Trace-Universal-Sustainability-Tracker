@@ -204,6 +204,7 @@ Key Features
 - Bar chart comparing global and national benchmarks
 
 - Sustainability tips for reducing emissions
+  
 <img width="1023" height="461" alt="image" src="https://github.com/user-attachments/assets/5ed7c5ec-0f93-4d7a-8517-8f08e716c115" />
 
 
