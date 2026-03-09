@@ -3,7 +3,7 @@
 
 ## 🌍 Omni-Trace: Universal Sustainability Tracker
 
-🔗 **Live Website:**  [Click here to open Omni-Trace](https://vasanthkumar73.neocities.org/Omni-Trace/vasanth-index)
+🔗 **Live Website:**  [Click here to open Omni-Trace](https://vasanthkumar73.neocities.org/Omni-Trace:Universal_Sustainability_Tracker/vasanth-index)
 
 Publisher: Vasanth Kumar R
 
@@ -34,9 +34,9 @@ Interactive Doughnut and Bar Charts powered by Chart.js for visual footprint ana
 
 Compares user emissions against:
 
-India Average (2.1 tonnes CO₂/year)
+- India Average (2.1 tonnes CO₂/year)
 
-Global Average (4.9 tonnes CO₂/year)
+- Global Average (4.9 tonnes CO₂/year)
 
 ## 📜 Audit History
 
@@ -162,7 +162,7 @@ Key Features
 - Clean glassmorphism UI design
 
 - Responsive layout for multiple devices
-<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/80200177-af62-48e7-9090-d711ef00b222" />
+<img width="1915" height="867" alt="image" src="https://github.com/user-attachments/assets/2f80df1d-70ca-440f-8875-d6f8c54b3566" />
 
 
 ### 📊 User Dashboard
@@ -182,7 +182,7 @@ Key Features
 - Logout functionality
 
 - Modern responsive layout
-<img width="1024" height="464" alt="image" src="https://github.com/user-attachments/assets/a4de17b4-8780-41a5-8e10-9063f5d77798" />
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/87617402-7d4e-4ce6-b1b1-713f0d5c330b" />
 
 
 ### 📈 Results & Analytics
@@ -205,7 +205,7 @@ Key Features
 
 - Sustainability tips for reducing emissions
   
-<img width="1023" height="461" alt="image" src="https://github.com/user-attachments/assets/5ed7c5ec-0f93-4d7a-8517-8f08e716c115" />
+<img width="1913" height="822" alt="image" src="https://github.com/user-attachments/assets/70036582-7258-4611-a543-b417a558056f" />
 
 
 
